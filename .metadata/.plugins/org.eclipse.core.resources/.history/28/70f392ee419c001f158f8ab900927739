@@ -1,0 +1,10 @@
+package ContaAvancada;
+
+public class Banco {
+	private int codigo;
+	private String nome;
+	private int numeroAgencia;
+	
+	
+
+}

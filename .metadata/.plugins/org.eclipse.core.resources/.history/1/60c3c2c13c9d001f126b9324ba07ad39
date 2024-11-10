@@ -1,0 +1,24 @@
+package Computador;
+
+public class Main {
+
+	public static void main(String[] args) {
+		HD hd = new HD("Kingston", "HD Kingston 450", 1000, 3);
+		Memoria memoria = new Memoria("Corsair", "Corsair Vengeance", 8, 2400);
+		Processador processador = new Processador("Intel", "Intel Core i5" , 5, 2);
+		PlacaMae placaM =  new PlacaMae("Asus", "B750", processador, hd, memoria);
+		
+		
+		
+		placaM.setHd(hd);
+		placaM.setMemoria(memoria);
+		placaM.setProcessador(processador);
+		
+		Gabinete gabinete = new Gabinete("Asus", "A124", 3, placaM);
+		Computador c = new Computador("Positivo", "Positivo v15", gabinete, teclado, mouse, monitor);
+		
+		System.out.println(gabinete);
+
+	}
+
+}

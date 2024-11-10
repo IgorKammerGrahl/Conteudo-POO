@@ -1,0 +1,10 @@
+package PecasDeXadrez;
+
+public class PecaMain {
+
+	public static void main(String[] args) {
+		Peao p = new Peao();
+
+	}
+
+}

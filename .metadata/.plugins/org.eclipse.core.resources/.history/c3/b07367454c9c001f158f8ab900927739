@@ -1,0 +1,9 @@
+package Computador;
+
+public class Processador {
+	private String modelo;
+	private String marca;
+	private float clock;
+	private float cache;
+
+}

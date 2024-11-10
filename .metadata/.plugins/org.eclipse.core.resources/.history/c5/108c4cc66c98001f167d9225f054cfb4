@@ -1,0 +1,8 @@
+package Animais;
+
+public class tartaruga {
+	private String ambiente = "";
+	private String cor = "";
+	
+	
+}

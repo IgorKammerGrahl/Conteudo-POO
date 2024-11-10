@@ -1,0 +1,8 @@
+package Computador;
+
+public class Monitor {
+	private String marca;
+	private String tipo;
+	private String resolucao;
+
+}

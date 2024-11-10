@@ -1,0 +1,28 @@
+package Animais;
+
+public class Gato {
+	
+	private boolean pelo = true;
+	private String raca = "";
+	
+	public boolean isPelo() {
+		return pelo;
+	}
+	public void setPelo(boolean pelo) {
+		this.pelo = pelo;
+	}
+	public String getRaca() {
+		return raca;
+	}
+	public void setRaca(String raca) {
+		this.raca = raca;
+	}
+	
+	public static boolean Tossar(boolean darTosa) {
+		if(darTosa) {
+			sePelo(false);
+			return pelo
+		}
+	}
+
+}

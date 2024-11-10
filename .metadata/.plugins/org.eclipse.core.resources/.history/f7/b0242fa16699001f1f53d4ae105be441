@@ -1,0 +1,7 @@
+package Musica;
+
+public class Percussao extends InstrumentoMusical{
+	
+	
+
+}

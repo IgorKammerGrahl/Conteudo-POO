@@ -1,0 +1,7 @@
+package AlunosProfessor;
+
+public class Pessoa {
+	private int codigo;
+	private String nome;
+
+}

@@ -1,0 +1,8 @@
+package Animais;
+
+public class Animal {
+	
+	private String metabolismo = "";
+	private String respiracao = "Pulmonar";
+
+}

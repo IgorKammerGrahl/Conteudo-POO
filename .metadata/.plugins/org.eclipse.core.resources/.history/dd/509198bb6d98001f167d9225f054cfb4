@@ -1,0 +1,23 @@
+package Animais;
+
+public class tartaruga {
+	private String ambiente = "";
+	private String cor = "";
+	
+	public String getAmbiente() {
+		return ambiente;
+	}
+	public void setAmbiente(String ambiente) {
+		this.ambiente = ambiente;
+	}
+	public String getCor() {
+		return cor;
+	}
+	public void setCor(String cor) {
+		this.cor = cor;
+	}
+	
+	
+	
+	
+}

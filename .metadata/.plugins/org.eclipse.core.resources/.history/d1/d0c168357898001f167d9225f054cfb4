@@ -1,0 +1,6 @@
+package NaveEspacial;
+
+public class NaveEspacial {
+	private double velocidadeMaxima;
+	
+}

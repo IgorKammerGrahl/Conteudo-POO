@@ -1,0 +1,21 @@
+package Animais;
+
+public class Lagarto extends Reptil{
+	
+	private int chifres;
+	private boolean venenoso;
+	
+	public int getChifres() {
+		return chifres;
+	}
+	public void setChifres(int chifres) {
+		this.chifres = chifres;
+	}
+	public boolean isVenenoso() {
+		return venenoso;
+	}
+	public void setVenenoso(boolean venenoso) {
+		this.venenoso = venenoso;
+	}
+
+}

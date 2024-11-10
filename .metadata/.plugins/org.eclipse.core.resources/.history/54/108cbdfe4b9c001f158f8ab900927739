@@ -1,0 +1,8 @@
+package Computador;
+
+public class HD {
+	private String marca;
+	private String modelo;
+	private float capacidade;
+
+}

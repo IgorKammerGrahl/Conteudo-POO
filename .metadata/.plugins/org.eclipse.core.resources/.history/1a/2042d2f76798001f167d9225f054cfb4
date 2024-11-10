@@ -1,0 +1,11 @@
+
+public class VeiculoMain {
+
+	public static void main(String[] args) {
+		Veiculo v = new Veiculo();
+		
+		v.setMotor(false);
+
+	}
+
+}

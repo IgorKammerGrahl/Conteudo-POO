@@ -1,0 +1,18 @@
+package BombaDeCombustivel;
+
+public class BombaMain {
+
+	public static void main(String[] args) {
+		Bomba b = new Bomba();
+		BombaGasolina bg = new BombaGasolina();
+		
+		b.setTotalLitros(320);
+		b.setValorLitro(12);
+		b.abastecerPorValor(50.50);
+		System.out.println(b);
+		
+		
+		
+	}
+
+}

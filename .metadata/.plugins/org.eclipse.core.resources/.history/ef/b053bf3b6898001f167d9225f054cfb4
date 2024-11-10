@@ -1,0 +1,15 @@
+
+public class VeiculoMain {
+
+	public static void main(String[] args) {
+		Veiculo v = new Veiculo();
+		caminhao c1 = new caminhao();
+		Carro c2 = new Carro();
+		Moto m = new Moto();
+		
+		v.setMotor(false);
+		System.out.println(v);
+
+	}
+
+}

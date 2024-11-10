@@ -1,0 +1,15 @@
+package Animais;
+
+public class AnimalMain {
+	public static void main(String[] args) {
+		Cao c = new Cao();
+		Gato g = new Gato();
+		
+		c.darTossa();
+		System.out.println(c);
+		g.setCor("Verde");
+		g.darTossa();
+		System.out.println(g);
+	}
+
+}

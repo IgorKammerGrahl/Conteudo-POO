@@ -1,0 +1,11 @@
+package Animais;
+
+public class Mamifero {
+	
+	private boolean pelo;
+	private int glandulasMamarias;
+
+	
+
+
+}

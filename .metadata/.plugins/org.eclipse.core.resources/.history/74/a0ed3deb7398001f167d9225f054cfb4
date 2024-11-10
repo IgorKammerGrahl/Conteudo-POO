@@ -1,0 +1,6 @@
+package AlunosProfessor;
+
+public class Aluno {
+	private int matricula;
+
+}

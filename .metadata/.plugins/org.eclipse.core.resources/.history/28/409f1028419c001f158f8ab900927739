@@ -1,0 +1,21 @@
+package Carro;
+
+public class CarroMain {
+
+	public static void main(String[] args) {
+		Pessoa pe = new Pessoa();
+		Motor mo = new Motor();
+		
+		pe.setEndereco("Rua Girassol");
+		pe.setNome("Giovani");
+		mo.setCilindros(2);
+		mo.setCombustivel("Etanol");
+		mo.setMotor("Motor Bom");
+		mo.setPotencia(15);
+		
+		System.out.println(pe);
+		System.out.println(mo);
+
+	}
+
+}

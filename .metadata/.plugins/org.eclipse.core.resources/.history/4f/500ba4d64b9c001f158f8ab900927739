@@ -1,0 +1,9 @@
+package Computador;
+
+public class Gabinete {
+	private String modelo;
+	private String tipo;
+	private int baias;
+	protected PlacaMae placaMae;	
+
+}

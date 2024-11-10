@@ -1,0 +1,8 @@
+package BombaDeCombustivel;
+
+public class Bomba {
+	
+	private double totalLitros;
+	private float valorLitro;
+
+}

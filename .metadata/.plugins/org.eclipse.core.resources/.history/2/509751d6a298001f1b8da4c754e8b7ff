@@ -1,0 +1,7 @@
+package PecasDeXadrez;
+
+public class Torre extends Peca{
+	
+	
+
+}

@@ -1,0 +1,7 @@
+package Animais;
+
+public class Animal {
+	
+	private String metabolismo = "";
+
+}

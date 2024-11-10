@@ -1,0 +1,21 @@
+package Animais;
+
+public class Gato extends Mamifero{
+	
+	private String raca = "";
+
+	public String getRaca() {
+		return raca;
+	}
+	public void setRaca(String raca) {
+		this.raca = raca;
+	}
+	
+	
+	public void darTossa(boolean pelo) {
+		if(super.pelo) {
+			this.pelo = false;
+		}
+	}
+
+}

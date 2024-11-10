@@ -1,0 +1,13 @@
+package PecasDeXadrez;
+
+public class PecaMain {
+
+	public static void main(String[] args) {
+		Peao p = new Peao();
+		
+		p.setColuna(0);
+		p.setLinha(1);
+
+	}
+
+}

@@ -1,0 +1,12 @@
+package Ambiente;
+
+public class AmbienteMain {
+
+	public static void main(String[] args) {
+		Quarto q = new Quarto();
+		
+		q.setArea(15.456);
+
+	}
+
+}

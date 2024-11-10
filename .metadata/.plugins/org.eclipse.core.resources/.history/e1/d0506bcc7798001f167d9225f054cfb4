@@ -1,0 +1,15 @@
+package Ambiente;
+
+public class AmbienteMain {
+
+	public static void main(String[] args) {
+		Quarto q = new Quarto();
+		Sala s = new Sala();
+		
+		q.setArea(15);
+		q.setCapacidade(4);
+		
+
+	}
+
+}

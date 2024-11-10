@@ -1,0 +1,31 @@
+package ContaAvancada;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Pessoa p = new Pessoa();
+		Banco b = new Banco();
+		CartaoDeCredito cc = new CartaoDeCredito();
+		
+		p.setEndereco("Boa Vista");
+		p.setNome("Igor");
+		
+		b.setCodigo(1435);
+		b.setNome("Bradesco");
+		b.setNumeroAgencia(16785);
+		
+		cc.setLimite(2340);
+		cc.setNumero(144353643);
+		cc.setOperadora("Visa");
+		cc.setTipoDeCartao("De pagar");
+		
+		ContaEspecial ce = new ContaEspecial();
+		
+		ce.setAgencia(12453222);
+		ce.setBanco(b);
+		ce.setCartao(cc);
+		ce.setCorrentista(p);
+
+	}
+
+}

@@ -1,0 +1,9 @@
+package Animais;
+
+public class Cao {
+	
+	private boolean pelo;
+	private String raca = "";
+	private double peso;
+
+}

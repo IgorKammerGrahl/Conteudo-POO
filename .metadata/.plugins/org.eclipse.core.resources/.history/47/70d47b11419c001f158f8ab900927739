@@ -1,0 +1,11 @@
+package Carro;
+
+public class CarroMain {
+
+	public static void main(String[] args) {
+		Pessoa pe = new Pessoa();
+		Motor mo = new Motor();
+
+	}
+
+}

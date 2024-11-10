@@ -1,0 +1,14 @@
+package PecasDeXadrez;
+
+public class Torre extends Peca{
+	
+	public boolean mover(int linha, int coluna) {
+		int linhaAtual = getLinha();
+		int colunaAtual = getColuna();
+		
+		if (linha == linhaAtual || coluna == colunaAtual) {
+			
+		}
+	}
+
+}

@@ -1,0 +1,10 @@
+package ContaAvancada;
+
+public class ContaBancaria {
+	protected Banco banco;
+	private int agencia;
+	private int numeroDaConta;
+	private double saldo;
+	protected Pessoa correntista;
+
+}

@@ -1,0 +1,8 @@
+package Eletronico;
+
+public class SistemaEletronico extends EquipamentoEletronico {
+
+	private String marca = "Sony";
+	private String modelo = "S2":
+	private float potencia = 200;
+}

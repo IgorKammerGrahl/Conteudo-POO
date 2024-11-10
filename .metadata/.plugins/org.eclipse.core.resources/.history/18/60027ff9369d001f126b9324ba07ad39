@@ -1,0 +1,12 @@
+package Computador;
+
+public class Main {
+
+	public static void main(String[] args) {
+		HD hd = new HD("Kingston", "HD Kingston 450", 1000, 3);
+		Memoria memoria = new Memoria("Corsair", "Corsair Vengeance", 8, 2400);
+		Processador processador = new Processador("Intel", "Intel Core i5" , 5.6, 2);
+
+	}
+
+}

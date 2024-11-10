@@ -1,0 +1,10 @@
+package ContaAvancada;
+
+public class ContaEspecial {
+	private int diasSemJuros;
+	private double limite;
+	protected CartaoDeCredito cartao;
+	
+	
+
+}

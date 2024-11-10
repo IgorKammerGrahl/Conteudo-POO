@@ -1,0 +1,8 @@
+package Animais;
+
+public class Gato {
+	
+	private boolean pelo = true;
+	private String raca = "";
+
+}

@@ -1,0 +1,12 @@
+package Computador;
+
+public class Main {
+
+	public static void main(String[] args) {
+		HD hd = new HD("Kingston", "HD Kingston 450", 1.000, 3);
+		Memoria memoria = new Memoria();
+		Processador processador = new Processador();
+
+	}
+
+}

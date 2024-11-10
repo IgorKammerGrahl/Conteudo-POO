@@ -1,0 +1,11 @@
+package Computador;
+
+public class Memoria {
+	private String marca;
+	private String modelo;
+	private float capacidade;
+	private float velocidade;
+	
+	
+
+}

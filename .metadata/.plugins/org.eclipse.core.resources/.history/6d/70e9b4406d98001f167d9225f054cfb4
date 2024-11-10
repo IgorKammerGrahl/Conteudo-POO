@@ -1,0 +1,6 @@
+package Animais;
+
+public class Reptil {
+	private String = "Escamas";
+
+}

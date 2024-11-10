@@ -1,0 +1,10 @@
+package PecasDeXadrez;
+
+public class Peao extends Peca{
+	
+	public boolean mover(int linha, int coluna) {
+		int linhaAtual = getLinha();
+		int colunaAtual = getColuna();
+	}
+
+}

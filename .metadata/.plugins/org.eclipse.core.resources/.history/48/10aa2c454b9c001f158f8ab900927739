@@ -1,0 +1,13 @@
+package Computador;
+
+public class Computador {
+	private String marca;
+	private String modelo;
+	protected Gabinete gabinete;
+	protected Teclado teclado;
+	protected Mouse mouse;
+	protected Monitor monitor;
+	
+	
+
+}

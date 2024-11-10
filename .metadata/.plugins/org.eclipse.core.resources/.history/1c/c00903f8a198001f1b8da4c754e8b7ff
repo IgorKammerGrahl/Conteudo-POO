@@ -1,0 +1,17 @@
+package PecasDeXadrez;
+
+public class PecaMain {
+
+	public static void main(String[] args) {
+		Peao p = new Peao();
+		
+		p.setColuna(0);
+		p.setLinha(1);
+		p.setCor(true);
+		
+		boolean primeiroMovimento = p.mover(2, 0);
+		System.out.println("Moviemento para frente feito com: " + primeiroMovimento);
+
+	}
+
+}

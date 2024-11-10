@@ -1,0 +1,19 @@
+package Animais;
+
+public class Gato extends Mamifero{
+	
+	private String cor = "";
+
+	public String getCor() {
+		return cor;
+	}
+	public void setCor(String cor) {
+		this.cor = cor;
+	}
+	
+	public void darTossa() {
+		if(this.isPelo()) {
+			this.setPelo(false); 
+		}
+	}
+}

@@ -1,0 +1,21 @@
+package Animais;
+
+public class Mamifero {
+	
+	private boolean pelo;
+	private int glandulasMamarias;
+	
+	public boolean isPelo() {
+		return pelo;
+	}
+	public void setPelo(boolean pelo) {
+		this.pelo = pelo;
+	}
+	public int getGlandulasMamarias() {
+		return glandulasMamarias;
+	}
+	public void setGlandulasMamarias(int glandulasMamarias) {
+		this.glandulasMamarias = glandulasMamarias;
+	}
+
+}

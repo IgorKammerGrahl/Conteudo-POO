@@ -1,0 +1,7 @@
+package Animais;
+
+public class Gato {
+	
+	private boolean pelo = true;
+
+}

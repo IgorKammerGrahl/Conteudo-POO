@@ -1,0 +1,10 @@
+package AlunosProfessor;
+
+public class PessoaMain {
+
+	public static void main(String[] args) {
+		Aluno a = new Aluno();
+
+	}
+
+}

@@ -1,0 +1,6 @@
+package AlunosProfessor;
+
+public class Professor {
+	private String disciplina;
+
+}

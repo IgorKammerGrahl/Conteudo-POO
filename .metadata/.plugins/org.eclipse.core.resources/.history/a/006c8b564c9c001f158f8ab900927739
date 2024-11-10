@@ -1,0 +1,12 @@
+package Computador;
+
+public class PlacaMae {
+	private String marca;
+	private String modelo;
+	protected Processador processador;
+	protected HD hd;
+	protected Memoria memoria;
+	
+	
+
+}

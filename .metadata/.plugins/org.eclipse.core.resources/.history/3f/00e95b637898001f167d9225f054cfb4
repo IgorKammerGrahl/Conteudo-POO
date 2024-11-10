@@ -1,0 +1,7 @@
+package NaveEspacial;
+
+public class Apolo11 {
+	
+	private String tipoCombustivel;
+
+}

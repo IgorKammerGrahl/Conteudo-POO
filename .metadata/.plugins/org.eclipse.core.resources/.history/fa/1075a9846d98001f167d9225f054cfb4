@@ -1,0 +1,7 @@
+package Animais;
+
+public class Reptil {
+	private String pele = "Escamas";
+	private int botarOvo;
+
+}

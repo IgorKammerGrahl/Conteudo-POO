@@ -1,0 +1,21 @@
+package Animais;
+
+public class Reptil {
+	private String pele = "Escamas";
+	private boolean oviparos;
+	
+	public String getPele() {
+		return pele;
+	}
+	public void setPele(String pele) {
+		this.pele = pele;
+	}
+	public boolean isOviparos() {
+		return oviparos;
+	}
+	public void setOviparos(boolean oviparos) {
+		this.oviparos = oviparos;
+	}
+	
+	
+}

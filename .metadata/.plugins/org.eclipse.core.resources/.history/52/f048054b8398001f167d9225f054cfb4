@@ -1,0 +1,12 @@
+package BombaDeCombustivel;
+
+public class BombaMain {
+
+	public static void main(String[] args) {
+		Bomba b = new Bomba();
+		
+		b.setTotalLitros(1000);
+
+	}
+
+}

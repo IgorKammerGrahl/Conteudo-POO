@@ -1,0 +1,12 @@
+package Eletronico;
+
+public class Main {
+	public static void main(String[] args) {
+		EquipamentoEletronico ee = new EquipamentoEletronico();
+		ee.setConsumo(100);
+		ee.setTensao(220);
+		System.out.println(ee);
+	}
+	
+
+}

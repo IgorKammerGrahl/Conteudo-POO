@@ -1,0 +1,6 @@
+package ContaAvancada;
+
+public class ContaSimples extends ContaBancaria{
+	
+
+}

@@ -1,0 +1,9 @@
+package ContaAvancada;
+
+public class CartaoDeCredito {
+	private int numero;
+	private String operadora;
+	private double limite;
+	private String tipoDeCartao;
+
+}
